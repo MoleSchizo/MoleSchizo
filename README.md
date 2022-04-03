@@ -10,7 +10,7 @@
 
 <div>
  <p>
-I'm a mid-level Python, Lua, Front-End Developer, Capable of coding bots (specialy Discord & etc) and automation.
+I'm a mid-level Python, Lua, Front-End Developer, Capable of coding bots (specialy Discord & etc) and any automation related things.
 </p>
 </div>
 
