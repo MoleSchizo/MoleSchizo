@@ -10,11 +10,12 @@
 
 <div>
  <p>
-I'm a mid-level Python, Lua, Front-End Developer, Capable of coding bots (specialy Discord & etc) and any automation related things.
+I'm a mid-level Python, Lua, Front-End Developer, Capable of coding bots (specially Discord & etc) and any automation related things.
 </p>
 </div>
 
 <p align="center">
+<p>Discord: MOLE#2165</p>
 <a href="mailto:mg236094@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mg236094%40gmail.com-blue"></a>
 </p>
 
