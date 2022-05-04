@@ -21,4 +21,4 @@ I'm a mid-level Python, Lua, Front-End Developer, Capable of coding bots (specia
 
 
 <hr>
-<img src="https://64.media.tumblr.com/6c4f7db076098982a4ce262d0252031c/1faab7080893d854-a0/s540x810/b34d90651a5501006fd9e3936b9af136b08ed24a.gifv"/>
+<img src="https://c.tenor.com/4R0C9EOQFz0AAAAd/beidou-genshin-impact.gif"/>
