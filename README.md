@@ -4,9 +4,9 @@
 </p>
 
 ### Hi I'm Mole <img width="25px" src="https://icon-library.com/images/moon-icon-png/moon-icon-png-4.jpg" alt="moon"/>
-> Python Developer
-> Lua Developer
-> Front-end Developer
+> Python Developer<br>
+> Lua Developer<br>
+> Front-end Developer<br>
 
 <div>
  <p>
