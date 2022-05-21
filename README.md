@@ -15,7 +15,7 @@ I'm a mid-level Python, Lua, Front-End Developer, Capable of coding bots (specia
 </div>
 
 <p align="center">
-<p>Discord:<br>Mole.#2165</p>
+<p>Discord:<br>MOLE#2165</p>
 </p>
 
 
