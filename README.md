@@ -9,7 +9,7 @@
 
 <div>
  <p>
-I'm a mid-level Full-Stack Web Developer. Capable of coding bots (Discord & etc) and any automation-related things.
+I'm a mid Full-Stack Web Developer Capable of coding bots (especially discord) and any automation-related processes.
 </p>
 </div>
 
