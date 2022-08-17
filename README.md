@@ -14,7 +14,6 @@ I'm a mid Full-Stack Developer. Capable of coding bots (especially discord) and 
 </div>
 
 <p align="center">
-<p>Discord:<br>MOLE#2165 or MOLE#6846</p>
 </p>
 
 
