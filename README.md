@@ -9,8 +9,7 @@
 
 <div>
  <p>
-Mid Full-Stack Developer. Capable of coding bots (especially discord) and any automation-related processes.
-</p>
+Mid Full-Stack Developer with some skill issues</p>
 </div>
 
 <p align="center">
