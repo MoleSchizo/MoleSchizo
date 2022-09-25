@@ -9,12 +9,14 @@
 
 <div>
  <p>
-Mid Full-Stack Developer with some skill issues</p>
+Mid Full-Stack Developer with some skill issues
+ </p>
 </div>
 
 <p align="center">
 </p>
 
+(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ In love with [this](https://github.com/RexiRexii) silly ♡
 
 <hr>
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
