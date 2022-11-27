@@ -16,7 +16,7 @@ Mid Full-Stack Developer with some skill issues
 <p align="center">
 </p>
 
-[my silly](https://github.com/RexiRexii)
+[dummy](https://github.com/RexiRexii)
 
 <hr>
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
