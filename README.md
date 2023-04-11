@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="150">
+    <img src="https://media.tenor.com/pOVlbnEE3uMAAAAd/cute-hello-kitty.gif" width="150">
 </p>
 <h1 align="center">Hewwo! <img width="45px" src="https://i.pinimg.com/originals/17/e1/39/17e13977ee118b9e920b24326a49f1d6.gif"/></h1>
 <h2 align="center">I'm Mole, a Full-Stack Developer & UI Designer </h2>
