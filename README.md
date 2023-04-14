@@ -21,6 +21,6 @@
 <h2 align="center">About Me</h2>
 <div align="center">
     <p>
-        I'm a mid-level Full-Stack Developer who's still learning the ropes, but I've got a knack for creating coow stuff!
+        I'm a mid-level Full-Stack Developer who's still learning the ropes, but I've got a knack
     </p>
 </div> 
