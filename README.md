@@ -23,4 +23,5 @@
     <p>
         I'm a mid-level Full-Stack Developer who's still learning the ropes
     </p>
+    https://forum.wearedevs.net/profile?uid=80267
 </div> 
