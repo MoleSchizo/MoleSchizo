@@ -21,7 +21,9 @@
 <h2 align="center">About Me</h2>
 <div align="center">
     <p>
-        I'm a mid-level Full-Stack Developer who's still learning the ropes
+        I'm a mid-tier Full-Stack Developer, I write code that ultimately won't matter in the grand scheme of things but it keeps me busy and gives me some semblance of purpose
     </p>
-    https://forum.wearedevs.net/profile?uid=80267
+    <a href="https://forum.wearedevs.net/profile?uid=80267" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/wearedevs-%235858FA.svg?style=for-the-badge&logo=wearedevs&logoColor=white&labelColor=%23BF55EC" alt="wearedevs" style="margin-bottom: 5px; height: 28px; width: 110px; border-radius: 5px;" />
+    </a>
 </div> 
