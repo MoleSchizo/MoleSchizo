@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://i.pinimg.com/564x/3a/3d/d6/3a3dd61b50cdecf765d11d028ecce3e5.jpg" width="150">
-</p>
-
 <h2 align="center">I'm Mole, a Full-Stack Developer & UI Designer </h2>
 
 <p align="center">
