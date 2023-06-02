@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=molethedev&count_private=true&show_icons=true&theme=dracula" alt="Mole's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=moleschizo&count_private=true&show_icons=true&theme=dracula" alt="Mole's GitHub Stats">
 </p>
 
 <h2 align="center">About Me</h2>
