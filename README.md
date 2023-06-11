@@ -21,6 +21,6 @@
 
 <div align="center">
     <p>
-        I'm a mid-tier Full-Stack Developer & UI Designer. <br> my code doesn't matter, it keeps me busy and gives me some sense of purpose amidst the voices in my head.
+        I'm a mid-tier Full-Stack Developer & UI Designer. <br> my code doesn't matter
     </p>
 </div> 
