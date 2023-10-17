@@ -1,5 +1,5 @@
 # Hi ᗜˬᗜ
 
-Sophomore @ Moscow State University
+Sophomore @ MSU
 
 > "God is the programmer"
