@@ -1,3 +1,3 @@
 # Hi ᗜˬᗜ
 
-Sophomore @ MSU
+Int. Junior @ MSU
